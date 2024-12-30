@@ -1,0 +1,1 @@
+Projemde typescript ile kodlamamı yaptım ve realm veri tabanını kullandım. Yaptığım proje hasta tahlillerini belirli referans araklıklarına göre test edip doktorların işlerini hızlandırmayı amaçlıyor.Ve hasta kan değerlerinin değişimini görüyor
